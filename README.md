@@ -1,3 +1,3 @@
 ## 初叶🍂竹叶 Furry控的小房子
 ![Anurag's GitHub stats](https://githubmeihua1.chuyel.top/api?username=chuyegzs)
-![初叶🍂公益API](https://img.chuyel.top)
+![初叶🍂公益API](https://img.chuyel.top/api)
